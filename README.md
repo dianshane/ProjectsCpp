@@ -1,6 +1,6 @@
 # ProjectsCpp
 A variety of cpp tasks asigned by my coding teacher and implemented by me and/or co-students. 
-For educational perposes. 
+For educational purposes. 
 Credits to my teacher George Meletiou at UNIWA Greece.
 
 For every task there is an explanation and the code.
