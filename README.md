@@ -5,7 +5,7 @@ Credits to my teacher George Meletiou at UNIWA Greece.
 
 For every task there is an explanation and the code.
 You can freely do your own implementation of the task and compare to mine.
-All the uploaded code is error-free (using g++) and tested with examples for logical errors. Also most of the time it is corrected by my teacher.
+All the uploaded code is error-free (using gcc/g++ v.5.5.0) and tested with examples for logical errors. Also most of the time it is corrected by my teacher.
 Feel free to reach back with any suggestions or questions concerning any of the given tasks (or maybe new ones)!
 
 Have a nice time coding!
