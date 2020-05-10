@@ -1,0 +1,5 @@
+To install just run the make file.
+The executable will be called StudentEntryManipulationProgram and will be inside the same directory as the Makefile.
+Objects are kept inside the objects dir. You can safely remove them (and the sourves if you want) after installation.
+Have fun and thank you for using our software!
+Shane & Nefosaki
