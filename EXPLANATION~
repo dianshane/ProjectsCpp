@@ -14,8 +14,8 @@ Assignment:
 	Also the class needs to be able to do/support the following:
 		(1) Insertion of new grade into the array
 		(2) print student stats in one line
-		(3) print student stats in detail (average grade should be included in greek called mo)
-			CAUTION->this is also used like this in my code!
+		(3) print student stats in detail (average grade should be included in greek called mo )
+			CAUTION->this is also used like this in my code!)
 			Note that no subject names are needed! Just use numbers (p.e. "subject 1")
 
 The above are only guidelines and you should add more stuff as you see fit to make the program easier and/or faster to use.
